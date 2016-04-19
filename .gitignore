@@ -3,4 +3,4 @@ cache/
 *.zip
 vendor/
 views/
- 
+coverage/
