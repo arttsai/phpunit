@@ -1,6 +1,6 @@
 <?php
 
-namespace Acme\Tests;
+namespace Acme\Test;
 
 /**
  *
